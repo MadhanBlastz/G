@@ -50,4 +50,5 @@ def handle_message(message):
 
 # Start polling to keep the bot running and listen for messages
 if __name__ == '__main__':
-    bot.polling()
+    bot.polling(none_stop=True)
+    app.run(host='0.0.0.0', port=8080)
