@@ -1,3 +1,3 @@
 
-pyTelegramBotAPI==4.9.1  # Latest stable version
-pymongo==4.3.3           # Latest stable version
+pyTelegramBotAPI==4.7.1
+pymongo==4.3.3
